@@ -1,0 +1,10 @@
+com\spring\tata\ws\generated\GetCountryRequest.class
+com\tata\CountryEndpoint.class
+com\spring\tata\ws\generated\Country.class
+com\spring\tata\ws\generated\package-info.class
+com\spring\tata\ws\generated\Currency.class
+com\tata\CountryRepository.class
+com\tata\WebServiceConfig.class
+com\spring\tata\ws\generated\ObjectFactory.class
+com\spring\tata\ws\generated\GetCountryResponse.class
+com\tata\Application.class
